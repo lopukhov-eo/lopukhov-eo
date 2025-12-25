@@ -7,11 +7,13 @@ How to contact me: email [lopukhov.evgeniy.o@gmail.com](mailto:lopukhov.evgeniy.
     - **Contributing to the development of medical robotic systems for spinal surgery, including robotic assistance, navigation, and augmented reality (AR).**
     - **Developed a software solution for data collection, processing, and visualization of torque and inertial sensor data in spinal fusion procedures, utilizing networking protocols, BLE, Twisted, PyQt, pandas, and matplotlib.**
     - **Designed, implemented, and deployed databases for aggregating, processing, and visualizing patient data across multiple surgical hospitals, leveraging FastAPI, PostgreSQL, and MongoDB.**
-- Working on: **API work finder**
-- Learning: **Django, aiogram**
-- Interesting: **Python, Medicine, Robotics, IoT, AI, esp32**
-- Fact about me: **Visited more than 50 operations on spine**
+- Working on: **Nowly**
+- Learning: **Math, MCP and ClickHouse**
+- Interesting: **Python, Data Science, Statistics, Physiological data processing, Medicine, Robotics, IoT, AI**
+- Fact about me: **Visited more than 50 neurosurgical operations**
 - Achievments: [Articles](https://www.researchgate.net/profile/Evgenii-Olegovich/research), [Patents](https://patents.google.com/?inventor=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87+%D0%9B%D0%BE%D0%BF%D1%83%D1%85%D0%BE%D0%B2)
+
+My CV: https://drive.google.com/file/d/119IzZJCPGAvKzg4uwP_Mv0qsMU39uhP3/view?usp=drive_link
 
 ## My tech stack
 ![Python](https://img.shields.io/badge/-Python-2F855A?style=flat&logo=python&logoColor=white)
